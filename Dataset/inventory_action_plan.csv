@@ -1,0 +1,22 @@
+Product_Name,Category,Sales_2027,Predicted_Demand_Next_Year,Recommended_Stock_Order,Stock_Action,Estimated_Wholesale_Investment_₹
+Flower Pots Small,Ground Novelties,799.0,904,994,Increase Stock (+15%),107352.0
+Atom Bomb Deluxe,Bombs,750.0,765,841,Maintain Stock (Stable),111012.0
+Magic Pencil,Novelties,722.0,751,826,Maintain Stock (Stable),79296.0
+Fancy Sky Shot 30-Shot,Aerial Shots,653.0,728,800,Increase Stock (+15%),864000.0
+Two Sound Rocket,Rockets,694.0,728,800,Maintain Stock (Stable),124800.0
+Sparkler Cones,Novelties,696.0,726,798,Maintain Stock (Stable),143640.0
+Sparklers 10cm (Box),Sparklers,721.0,719,790,Maintain Stock (Stable),18960.0
+Rocket Bomb Single,Rockets,702.0,713,784,Maintain Stock (Stable),61152.0
+Atomic Rocket,Rockets,723.0,708,778,Maintain Stock (Stable),186720.0
+Fancy Sky Shot 12-Shot,Aerial Shots,677.0,707,777,Maintain Stock (Stable),349650.0
+Ground Chakkar Standard,Ground Novelties,682.0,701,771,Maintain Stock (Stable),27756.0
+Fancy Sky Shot 7-Shot,Aerial Shots,671.0,681,749,Maintain Stock (Stable),202230.0
+Flower Pots Big,Ground Novelties,661.0,680,748,Maintain Stock (Stable),112200.0
+Atom Bomb (Standard),Bombs,648.0,653,718,Maintain Stock (Stable),43080.0
+Flower Pots Special,Ground Novelties,664.0,652,717,Maintain Stock (Stable),150570.0
+Sparklers 30cm (Box),Sparklers,656.0,619,680,Reduce Stock (-15%),36720.0
+Fancy Sky Shot 60-Shot,Aerial Shots,607.0,612,673,Maintain Stock (Stable),1413300.0
+Electric Sparklers Multicolor,Sparklers,640.0,612,673,Maintain Stock (Stable),48456.0
+Ground Chakkar Deluxe,Ground Novelties,610.0,594,653,Maintain Stock (Stable),78360.0
+Peacock Feather Sparklers,Sparklers,563.0,517,568,Reduce Stock (-15%),51120.0
+Ground Chakkar Special,Ground Novelties,560.0,513,564,Reduce Stock (-15%),37224.0

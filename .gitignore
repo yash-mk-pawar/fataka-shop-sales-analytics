@@ -1,0 +1,11 @@
+# Python & Virtual Environments
+__pycache__/
+*.pyc
+venv/
+env/
+.pytest_cache/
+
+# IDE & OS Specific
+.vscode/
+.DS_Store
+Thumbs.db
